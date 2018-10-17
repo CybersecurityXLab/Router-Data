@@ -1,0 +1,3640 @@
+       254560  total memory
+        78852  used memory
+        27248  active memory
+         5536  inactive memory
+       175708  free memory
+          460  buffer memory
+         8676  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723680 non-nice user cpu ticks
+         1086 nice user cpu ticks
+      2771095 system cpu ticks
+    151835608 idle cpu ticks
+        17131 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375541 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90422033 interrupts
+    831269126 CPU context switches
+   1041407974 boot time
+      1591954 forks
+       254560  total memory
+        78956  used memory
+        27280  active memory
+         5512  inactive memory
+       175604  free memory
+          460  buffer memory
+         8728  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723687 non-nice user cpu ticks
+         1086 nice user cpu ticks
+      2771108 system cpu ticks
+    151836015 idle cpu ticks
+        17131 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375544 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90422301 interrupts
+    831271487 CPU context switches
+   1041407974 boot time
+      1591967 forks
+       254560  total memory
+        79008  used memory
+        27328  active memory
+         5504  inactive memory
+       175552  free memory
+          460  buffer memory
+         8772  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723698 non-nice user cpu ticks
+         1086 nice user cpu ticks
+      2771118 system cpu ticks
+    151836423 idle cpu ticks
+        17131 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375545 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90422613 interrupts
+    831273903 CPU context switches
+   1041407974 boot time
+      1591980 forks
+       254560  total memory
+        78984  used memory
+        27348  active memory
+         5512  inactive memory
+       175576  free memory
+          460  buffer memory
+         8772  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723704 non-nice user cpu ticks
+         1086 nice user cpu ticks
+      2771139 system cpu ticks
+    151836823 idle cpu ticks
+        17131 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375548 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90422919 interrupts
+    831276295 CPU context switches
+   1041407974 boot time
+      1591995 forks
+       254560  total memory
+        79028  used memory
+        27368  active memory
+         5516  inactive memory
+       175532  free memory
+          460  buffer memory
+         8796  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723711 non-nice user cpu ticks
+         1086 nice user cpu ticks
+      2771153 system cpu ticks
+    151837231 idle cpu ticks
+        17131 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375549 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90423249 interrupts
+    831278652 CPU context switches
+   1041407974 boot time
+      1592008 forks
+       254560  total memory
+        79068  used memory
+        27388  active memory
+         5520  inactive memory
+       175492  free memory
+          460  buffer memory
+         8848  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723718 non-nice user cpu ticks
+         1087 nice user cpu ticks
+      2771171 system cpu ticks
+    151837631 idle cpu ticks
+        17131 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375551 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90423562 interrupts
+    831280999 CPU context switches
+   1041407974 boot time
+      1592021 forks
+       254560  total memory
+        79068  used memory
+        27408  active memory
+         5532  inactive memory
+       175492  free memory
+          460  buffer memory
+         8852  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723727 non-nice user cpu ticks
+         1088 nice user cpu ticks
+      2771184 system cpu ticks
+    151838036 idle cpu ticks
+        17131 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375553 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90423843 interrupts
+    831283369 CPU context switches
+   1041407974 boot time
+      1592034 forks
+       254560  total memory
+        79168  used memory
+        27404  active memory
+         5532  inactive memory
+       175392  free memory
+          460  buffer memory
+         8876  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723734 non-nice user cpu ticks
+         1088 nice user cpu ticks
+      2771209 system cpu ticks
+    151838429 idle cpu ticks
+        17131 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375558 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90424101 interrupts
+    831285703 CPU context switches
+   1041407974 boot time
+      1592047 forks
+       254560  total memory
+        79168  used memory
+        27444  active memory
+         5540  inactive memory
+       175392  free memory
+          460  buffer memory
+         8932  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723737 non-nice user cpu ticks
+         1088 nice user cpu ticks
+      2771225 system cpu ticks
+    151838839 idle cpu ticks
+        17131 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375559 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90424384 interrupts
+    831288071 CPU context switches
+   1041407974 boot time
+      1592060 forks
+       254560  total memory
+        79180  used memory
+        27472  active memory
+         5548  inactive memory
+       175380  free memory
+          460  buffer memory
+         8932  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723741 non-nice user cpu ticks
+         1088 nice user cpu ticks
+      2771240 system cpu ticks
+    151839247 idle cpu ticks
+        17131 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375560 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90424657 interrupts
+    831290414 CPU context switches
+   1041407974 boot time
+      1592073 forks
+       254560  total memory
+        79216  used memory
+        27492  active memory
+         5552  inactive memory
+       175344  free memory
+          460  buffer memory
+         8956  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723750 non-nice user cpu ticks
+         1088 nice user cpu ticks
+      2771253 system cpu ticks
+    151839652 idle cpu ticks
+        17131 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375563 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90424950 interrupts
+    831292758 CPU context switches
+   1041407974 boot time
+      1592086 forks
+       254560  total memory
+        79260  used memory
+        27512  active memory
+         5556  inactive memory
+       175300  free memory
+          460  buffer memory
+         8980  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723759 non-nice user cpu ticks
+         1089 nice user cpu ticks
+      2771263 system cpu ticks
+    151840060 idle cpu ticks
+        17131 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375565 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90425247 interrupts
+    831295162 CPU context switches
+   1041407974 boot time
+      1592101 forks
+       254560  total memory
+        79264  used memory
+        27536  active memory
+         5564  inactive memory
+       175296  free memory
+          460  buffer memory
+         9012  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723765 non-nice user cpu ticks
+         1089 nice user cpu ticks
+      2771282 system cpu ticks
+    151840465 idle cpu ticks
+        17131 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375565 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90425546 interrupts
+    831297499 CPU context switches
+   1041407974 boot time
+      1592114 forks
+       254560  total memory
+        79292  used memory
+        27528  active memory
+         5568  inactive memory
+       175268  free memory
+          460  buffer memory
+         9036  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723767 non-nice user cpu ticks
+         1089 nice user cpu ticks
+      2771299 system cpu ticks
+    151840872 idle cpu ticks
+        17131 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375567 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90425839 interrupts
+    831299890 CPU context switches
+   1041407974 boot time
+      1592127 forks
+       254560  total memory
+        79320  used memory
+        27576  active memory
+         5572  inactive memory
+       175240  free memory
+          460  buffer memory
+         9060  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723778 non-nice user cpu ticks
+         1090 nice user cpu ticks
+      2771311 system cpu ticks
+    151841276 idle cpu ticks
+        17131 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375569 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90426209 interrupts
+    831302248 CPU context switches
+   1041407974 boot time
+      1592140 forks
+       254560  total memory
+        79376  used memory
+        27596  active memory
+         5576  inactive memory
+       175184  free memory
+          460  buffer memory
+         9084  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723786 non-nice user cpu ticks
+         1090 nice user cpu ticks
+      2771320 system cpu ticks
+    151841684 idle cpu ticks
+        17131 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375572 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90426524 interrupts
+    831304707 CPU context switches
+   1041407974 boot time
+      1592153 forks
+       254560  total memory
+        79392  used memory
+        27588  active memory
+         5584  inactive memory
+       175168  free memory
+          460  buffer memory
+         9140  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723794 non-nice user cpu ticks
+         1090 nice user cpu ticks
+      2771331 system cpu ticks
+    151842095 idle cpu ticks
+        17132 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375573 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90426805 interrupts
+    831307082 CPU context switches
+   1041407974 boot time
+      1592166 forks
+       254560  total memory
+        79412  used memory
+        27608  active memory
+         5596  inactive memory
+       175148  free memory
+          460  buffer memory
+         9144  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723802 non-nice user cpu ticks
+         1091 nice user cpu ticks
+      2771343 system cpu ticks
+    151842499 idle cpu ticks
+        17132 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375576 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90427081 interrupts
+    831309438 CPU context switches
+   1041407974 boot time
+      1592179 forks
+       254560  total memory
+        79460  used memory
+        27660  active memory
+         5596  inactive memory
+       175100  free memory
+          460  buffer memory
+         9168  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723812 non-nice user cpu ticks
+         1091 nice user cpu ticks
+      2771356 system cpu ticks
+    151842903 idle cpu ticks
+        17132 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375579 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90427372 interrupts
+    831311827 CPU context switches
+   1041407974 boot time
+      1592192 forks
+       254560  total memory
+        79476  used memory
+        27652  active memory
+         5600  inactive memory
+       175084  free memory
+          460  buffer memory
+         9220  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723822 non-nice user cpu ticks
+         1092 nice user cpu ticks
+      2771375 system cpu ticks
+    151843302 idle cpu ticks
+        17132 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375580 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90427678 interrupts
+    831314198 CPU context switches
+   1041407974 boot time
+      1592207 forks
+       254560  total memory
+        79532  used memory
+        27708  active memory
+         5608  inactive memory
+       175028  free memory
+          460  buffer memory
+         9228  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723828 non-nice user cpu ticks
+         1092 nice user cpu ticks
+      2771395 system cpu ticks
+    151843701 idle cpu ticks
+        17132 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375583 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90428039 interrupts
+    831316603 CPU context switches
+   1041407974 boot time
+      1592220 forks
+       254560  total memory
+        79552  used memory
+        27728  active memory
+         5612  inactive memory
+       175008  free memory
+          460  buffer memory
+         9268  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723834 non-nice user cpu ticks
+         1093 nice user cpu ticks
+      2771412 system cpu ticks
+    151844106 idle cpu ticks
+        17132 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375584 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90428358 interrupts
+    831318973 CPU context switches
+   1041407974 boot time
+      1592233 forks
+       254560  total memory
+        79588  used memory
+        27748  active memory
+         5620  inactive memory
+       174972  free memory
+          460  buffer memory
+         9308  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723843 non-nice user cpu ticks
+         1093 nice user cpu ticks
+      2771427 system cpu ticks
+    151844509 idle cpu ticks
+        17132 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375587 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90428615 interrupts
+    831321340 CPU context switches
+   1041407974 boot time
+      1592246 forks
+       254560  total memory
+        79556  used memory
+        27748  active memory
+         5620  inactive memory
+       175004  free memory
+          460  buffer memory
+         9308  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723849 non-nice user cpu ticks
+         1093 nice user cpu ticks
+      2771443 system cpu ticks
+    151844916 idle cpu ticks
+        17132 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375588 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90428931 interrupts
+    831323694 CPU context switches
+   1041407974 boot time
+      1592259 forks
+       254560  total memory
+        79652  used memory
+        27768  active memory
+         5628  inactive memory
+       174908  free memory
+          460  buffer memory
+         9364  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723853 non-nice user cpu ticks
+         1094 nice user cpu ticks
+      2771458 system cpu ticks
+    151845323 idle cpu ticks
+        17132 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375589 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90429255 interrupts
+    831326035 CPU context switches
+   1041407974 boot time
+      1592272 forks
+       254560  total memory
+        79612  used memory
+        27816  active memory
+         5632  inactive memory
+       174948  free memory
+          460  buffer memory
+         9360  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723863 non-nice user cpu ticks
+         1094 nice user cpu ticks
+      2771472 system cpu ticks
+    151845726 idle cpu ticks
+        17132 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375592 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90429598 interrupts
+    831328424 CPU context switches
+   1041407974 boot time
+      1592285 forks
+       254560  total memory
+        79708  used memory
+        27808  active memory
+         5640  inactive memory
+       174852  free memory
+          460  buffer memory
+         9388  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723870 non-nice user cpu ticks
+         1094 nice user cpu ticks
+      2771483 system cpu ticks
+    151846134 idle cpu ticks
+        17132 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375594 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90429904 interrupts
+    831330797 CPU context switches
+   1041407974 boot time
+      1592298 forks
+       254560  total memory
+        79728  used memory
+        27856  active memory
+         5648  inactive memory
+       174832  free memory
+          460  buffer memory
+         9416  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723882 non-nice user cpu ticks
+         1094 nice user cpu ticks
+      2771511 system cpu ticks
+    151846523 idle cpu ticks
+        17132 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375595 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90430154 interrupts
+    831333167 CPU context switches
+   1041407974 boot time
+      1592313 forks
+       254560  total memory
+        79756  used memory
+        27884  active memory
+         5656  inactive memory
+       174804  free memory
+          460  buffer memory
+         9456  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723890 non-nice user cpu ticks
+         1094 nice user cpu ticks
+      2771532 system cpu ticks
+    151846924 idle cpu ticks
+        17132 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375595 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90430390 interrupts
+    831335508 CPU context switches
+   1041407974 boot time
+      1592326 forks
+       254560  total memory
+        79752  used memory
+        27900  active memory
+         5660  inactive memory
+       174808  free memory
+          460  buffer memory
+         9472  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723898 non-nice user cpu ticks
+         1094 nice user cpu ticks
+      2771546 system cpu ticks
+    151847329 idle cpu ticks
+        17132 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375596 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90430645 interrupts
+    831337862 CPU context switches
+   1041407974 boot time
+      1592339 forks
+       254560  total memory
+        79884  used memory
+        27920  active memory
+         5664  inactive memory
+       174676  free memory
+          460  buffer memory
+         9496  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723907 non-nice user cpu ticks
+         1095 nice user cpu ticks
+      2771561 system cpu ticks
+    151847734 idle cpu ticks
+        17132 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375596 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90430896 interrupts
+    831340227 CPU context switches
+   1041407974 boot time
+      1592352 forks
+       254560  total memory
+        79972  used memory
+        27940  active memory
+         5668  inactive memory
+       174588  free memory
+          460  buffer memory
+         9520  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723911 non-nice user cpu ticks
+         1095 nice user cpu ticks
+      2771578 system cpu ticks
+    151848139 idle cpu ticks
+        17132 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375598 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90431164 interrupts
+    831342564 CPU context switches
+   1041407974 boot time
+      1592365 forks
+       254560  total memory
+        79880  used memory
+        27932  active memory
+         5676  inactive memory
+       174680  free memory
+          460  buffer memory
+         9548  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723918 non-nice user cpu ticks
+         1096 nice user cpu ticks
+      2771600 system cpu ticks
+    151848538 idle cpu ticks
+        17132 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375599 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90431510 interrupts
+    831345029 CPU context switches
+   1041407974 boot time
+      1592378 forks
+       254560  total memory
+        79900  used memory
+        27980  active memory
+         5688  inactive memory
+       174660  free memory
+          460  buffer memory
+         9580  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723925 non-nice user cpu ticks
+         1096 nice user cpu ticks
+      2771619 system cpu ticks
+    151848938 idle cpu ticks
+        17132 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375601 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90431769 interrupts
+    831347368 CPU context switches
+   1041407974 boot time
+      1592391 forks
+       254560  total memory
+        79936  used memory
+        28004  active memory
+         5688  inactive memory
+       174624  free memory
+          460  buffer memory
+         9632  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723930 non-nice user cpu ticks
+         1096 nice user cpu ticks
+      2771634 system cpu ticks
+    151849348 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375602 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90432071 interrupts
+    831349738 CPU context switches
+   1041407974 boot time
+      1592404 forks
+       254560  total memory
+        79980  used memory
+        28024  active memory
+         5696  inactive memory
+       174580  free memory
+          460  buffer memory
+         9640  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723938 non-nice user cpu ticks
+         1096 nice user cpu ticks
+      2771653 system cpu ticks
+    151849751 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375602 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90432412 interrupts
+    831352112 CPU context switches
+   1041407974 boot time
+      1592419 forks
+       254560  total memory
+        79992  used memory
+        28044  active memory
+         5696  inactive memory
+       174568  free memory
+          460  buffer memory
+         9652  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723943 non-nice user cpu ticks
+         1096 nice user cpu ticks
+      2771666 system cpu ticks
+    151850156 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375607 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90432716 interrupts
+    831354461 CPU context switches
+   1041407974 boot time
+      1592432 forks
+       254560  total memory
+        80048  used memory
+        28064  active memory
+         5704  inactive memory
+       174512  free memory
+          460  buffer memory
+         9708  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723950 non-nice user cpu ticks
+         1096 nice user cpu ticks
+      2771685 system cpu ticks
+    151850560 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375607 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90432993 interrupts
+    831356807 CPU context switches
+   1041407974 boot time
+      1592445 forks
+       254560  total memory
+        80072  used memory
+        28100  active memory
+         5712  inactive memory
+       174488  free memory
+          460  buffer memory
+         9708  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723953 non-nice user cpu ticks
+         1096 nice user cpu ticks
+      2771704 system cpu ticks
+    151850963 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375610 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90433291 interrupts
+    831359129 CPU context switches
+   1041407974 boot time
+      1592458 forks
+       254560  total memory
+        80084  used memory
+        28092  active memory
+         5716  inactive memory
+       174476  free memory
+          460  buffer memory
+         9760  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723965 non-nice user cpu ticks
+         1096 nice user cpu ticks
+      2771719 system cpu ticks
+    151851365 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375611 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90433605 interrupts
+    831361480 CPU context switches
+   1041407974 boot time
+      1592471 forks
+       254560  total memory
+        80120  used memory
+        28128  active memory
+         5724  inactive memory
+       174440  free memory
+          460  buffer memory
+         9764  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723970 non-nice user cpu ticks
+         1096 nice user cpu ticks
+      2771740 system cpu ticks
+    151851767 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375611 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90433880 interrupts
+    831363835 CPU context switches
+   1041407974 boot time
+      1592484 forks
+       254560  total memory
+        80148  used memory
+        28120  active memory
+         5732  inactive memory
+       174412  free memory
+          460  buffer memory
+         9792  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723980 non-nice user cpu ticks
+         1096 nice user cpu ticks
+      2771756 system cpu ticks
+    151852170 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375612 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90434224 interrupts
+    831366194 CPU context switches
+   1041407974 boot time
+      1592497 forks
+       254560  total memory
+        80132  used memory
+        28156  active memory
+         5736  inactive memory
+       174428  free memory
+          460  buffer memory
+         9816  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723987 non-nice user cpu ticks
+         1096 nice user cpu ticks
+      2771767 system cpu ticks
+    151852579 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375613 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90434533 interrupts
+    831368539 CPU context switches
+   1041407974 boot time
+      1592510 forks
+       254560  total memory
+        80152  used memory
+        28188  active memory
+         5740  inactive memory
+       174408  free memory
+          460  buffer memory
+         9840  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       723995 non-nice user cpu ticks
+         1096 nice user cpu ticks
+      2771790 system cpu ticks
+    151852976 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375615 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90434786 interrupts
+    831370870 CPU context switches
+   1041407974 boot time
+      1592525 forks
+       254560  total memory
+        80232  used memory
+        28180  active memory
+         5748  inactive memory
+       174328  free memory
+          460  buffer memory
+         9868  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724007 non-nice user cpu ticks
+         1097 nice user cpu ticks
+      2771799 system cpu ticks
+    151853384 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375615 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90435099 interrupts
+    831373254 CPU context switches
+   1041407974 boot time
+      1592538 forks
+       254560  total memory
+        80264  used memory
+        28232  active memory
+         5748  inactive memory
+       174296  free memory
+          460  buffer memory
+         9892  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724018 non-nice user cpu ticks
+         1097 nice user cpu ticks
+      2771812 system cpu ticks
+    151853789 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375616 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90435447 interrupts
+    831375655 CPU context switches
+   1041407974 boot time
+      1592551 forks
+       254560  total memory
+        80272  used memory
+        28252  active memory
+         5756  inactive memory
+       174288  free memory
+          460  buffer memory
+         9920  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724027 non-nice user cpu ticks
+         1097 nice user cpu ticks
+      2771825 system cpu ticks
+    151854195 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375616 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90435780 interrupts
+    831378066 CPU context switches
+   1041407974 boot time
+      1592564 forks
+       254560  total memory
+        80308  used memory
+        28244  active memory
+         5760  inactive memory
+       174252  free memory
+          460  buffer memory
+         9944  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724035 non-nice user cpu ticks
+         1097 nice user cpu ticks
+      2771836 system cpu ticks
+    151854606 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375616 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90436059 interrupts
+    831380447 CPU context switches
+   1041407974 boot time
+      1592577 forks
+       254560  total memory
+        80336  used memory
+        28284  active memory
+         5768  inactive memory
+       174224  free memory
+          460  buffer memory
+         9972  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724041 non-nice user cpu ticks
+         1098 nice user cpu ticks
+      2771851 system cpu ticks
+    151855010 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375618 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90436392 interrupts
+    831382926 CPU context switches
+   1041407974 boot time
+      1592590 forks
+       254560  total memory
+        80408  used memory
+        28312  active memory
+         5780  inactive memory
+       174152  free memory
+          460  buffer memory
+        10004  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724047 non-nice user cpu ticks
+         1100 nice user cpu ticks
+      2771870 system cpu ticks
+    151855412 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375619 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90436660 interrupts
+    831385275 CPU context switches
+   1041407974 boot time
+      1592603 forks
+       254560  total memory
+        80440  used memory
+        28336  active memory
+         5780  inactive memory
+       174120  free memory
+          460  buffer memory
+        10028  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724053 non-nice user cpu ticks
+         1100 nice user cpu ticks
+      2771883 system cpu ticks
+    151855818 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375622 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90436944 interrupts
+    831387639 CPU context switches
+   1041407974 boot time
+      1592616 forks
+       254560  total memory
+        80500  used memory
+        28328  active memory
+         5784  inactive memory
+       174060  free memory
+          460  buffer memory
+        10080  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724059 non-nice user cpu ticks
+         1100 nice user cpu ticks
+      2771900 system cpu ticks
+    151856226 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375623 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90437208 interrupts
+    831390000 CPU context switches
+   1041407974 boot time
+      1592631 forks
+       254560  total memory
+        80520  used memory
+        28348  active memory
+         5792  inactive memory
+       174040  free memory
+          460  buffer memory
+        10080  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724065 non-nice user cpu ticks
+         1101 nice user cpu ticks
+      2771919 system cpu ticks
+    151856627 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375624 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90437513 interrupts
+    831392356 CPU context switches
+   1041407974 boot time
+      1592644 forks
+       254560  total memory
+        80504  used memory
+        28396  active memory
+         5792  inactive memory
+       174056  free memory
+          460  buffer memory
+        10128  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724072 non-nice user cpu ticks
+         1101 nice user cpu ticks
+      2771939 system cpu ticks
+    151857030 idle cpu ticks
+        17133 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375624 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90437853 interrupts
+    831394740 CPU context switches
+   1041407974 boot time
+      1592657 forks
+       254560  total memory
+        80536  used memory
+        28388  active memory
+         5804  inactive memory
+       174024  free memory
+          460  buffer memory
+        10132  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724078 non-nice user cpu ticks
+         1101 nice user cpu ticks
+      2771955 system cpu ticks
+    151857436 idle cpu ticks
+        17134 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375625 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90438126 interrupts
+    831397113 CPU context switches
+   1041407974 boot time
+      1592670 forks
+       254560  total memory
+        80568  used memory
+        28428  active memory
+         5816  inactive memory
+       173992  free memory
+          460  buffer memory
+        10176  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724086 non-nice user cpu ticks
+         1101 nice user cpu ticks
+      2771966 system cpu ticks
+    151857846 idle cpu ticks
+        17134 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375626 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90438396 interrupts
+    831399474 CPU context switches
+   1041407974 boot time
+      1592683 forks
+       254560  total memory
+        80596  used memory
+        28432  active memory
+         5820  inactive memory
+       173964  free memory
+          460  buffer memory
+        10192  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724091 non-nice user cpu ticks
+         1101 nice user cpu ticks
+      2771984 system cpu ticks
+    151858253 idle cpu ticks
+        17134 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375626 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90438731 interrupts
+    831401908 CPU context switches
+   1041407974 boot time
+      1592696 forks
+       254560  total memory
+        80628  used memory
+        28480  active memory
+         5820  inactive memory
+       173932  free memory
+          460  buffer memory
+        10240  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724095 non-nice user cpu ticks
+         1103 nice user cpu ticks
+      2772008 system cpu ticks
+    151858649 idle cpu ticks
+        17134 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375628 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90438989 interrupts
+    831404257 CPU context switches
+   1041407974 boot time
+      1592709 forks
+       254560  total memory
+        81060  used memory
+        28600  active memory
+         6080  inactive memory
+       173500  free memory
+          588  buffer memory
+        10464  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724106 non-nice user cpu ticks
+         1103 nice user cpu ticks
+      2772045 system cpu ticks
+    151859020 idle cpu ticks
+        17140 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375633 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90439443 interrupts
+    831406901 CPU context switches
+   1041407974 boot time
+      1592728 forks
+       254560  total memory
+        81376  used memory
+        28912  active memory
+         6100  inactive memory
+       173184  free memory
+          720  buffer memory
+        10720  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724114 non-nice user cpu ticks
+         1103 nice user cpu ticks
+      2772103 system cpu ticks
+    151859370 idle cpu ticks
+        17147 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375642 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90440661 interrupts
+    831409639 CPU context switches
+   1041407974 boot time
+      1592743 forks
+       254560  total memory
+        81424  used memory
+        28960  active memory
+         6116  inactive memory
+       173136  free memory
+          720  buffer memory
+        10728  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724120 non-nice user cpu ticks
+         1103 nice user cpu ticks
+      2772119 system cpu ticks
+    151859779 idle cpu ticks
+        17147 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375643 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90440988 interrupts
+    831411994 CPU context switches
+   1041407974 boot time
+      1592756 forks
+       254560  total memory
+        81468  used memory
+        28980  active memory
+         6120  inactive memory
+       173092  free memory
+          720  buffer memory
+        10756  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724128 non-nice user cpu ticks
+         1103 nice user cpu ticks
+      2772135 system cpu ticks
+    151860187 idle cpu ticks
+        17147 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375643 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90441283 interrupts
+    831414376 CPU context switches
+   1041407974 boot time
+      1592769 forks
+       254560  total memory
+        81464  used memory
+        28988  active memory
+         6140  inactive memory
+       173096  free memory
+          720  buffer memory
+        10804  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724136 non-nice user cpu ticks
+         1104 nice user cpu ticks
+      2772151 system cpu ticks
+    151860590 idle cpu ticks
+        17147 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375647 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90441646 interrupts
+    831416771 CPU context switches
+   1041407974 boot time
+      1592782 forks
+       254560  total memory
+        81536  used memory
+        29024  active memory
+         6144  inactive memory
+       173024  free memory
+          720  buffer memory
+        10820  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724143 non-nice user cpu ticks
+         1105 nice user cpu ticks
+      2772164 system cpu ticks
+    151860996 idle cpu ticks
+        17147 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375652 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90441914 interrupts
+    831419109 CPU context switches
+   1041407974 boot time
+      1592795 forks
+       254560  total memory
+        81536  used memory
+        29016  active memory
+         6156  inactive memory
+       173024  free memory
+          720  buffer memory
+        10852  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724152 non-nice user cpu ticks
+         1106 nice user cpu ticks
+      2772173 system cpu ticks
+    151861408 idle cpu ticks
+        17147 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375653 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90442217 interrupts
+    831421598 CPU context switches
+   1041407974 boot time
+      1592808 forks
+       254560  total memory
+        81632  used memory
+        29064  active memory
+         6164  inactive memory
+       172928  free memory
+          720  buffer memory
+        10908  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724158 non-nice user cpu ticks
+         1106 nice user cpu ticks
+      2772186 system cpu ticks
+    151861819 idle cpu ticks
+        17147 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375655 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90442541 interrupts
+    831423979 CPU context switches
+   1041407974 boot time
+      1592821 forks
+       254560  total memory
+        81656  used memory
+        29084  active memory
+         6184  inactive memory
+       172904  free memory
+          720  buffer memory
+        10920  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724164 non-nice user cpu ticks
+         1106 nice user cpu ticks
+      2772202 system cpu ticks
+    151862226 idle cpu ticks
+        17147 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375658 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90442811 interrupts
+    831426333 CPU context switches
+   1041407974 boot time
+      1592836 forks
+       254560  total memory
+        81648  used memory
+        29108  active memory
+         6188  inactive memory
+       172912  free memory
+          720  buffer memory
+        10948  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724173 non-nice user cpu ticks
+         1106 nice user cpu ticks
+      2772215 system cpu ticks
+    151862636 idle cpu ticks
+        17147 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375658 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90443078 interrupts
+    831428707 CPU context switches
+   1041407974 boot time
+      1592849 forks
+       254560  total memory
+        81704  used memory
+        29136  active memory
+         6200  inactive memory
+       172856  free memory
+          720  buffer memory
+        10992  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724179 non-nice user cpu ticks
+         1107 nice user cpu ticks
+      2772229 system cpu ticks
+    151863046 idle cpu ticks
+        17147 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375659 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90443351 interrupts
+    831431082 CPU context switches
+   1041407974 boot time
+      1592862 forks
+       254560  total memory
+        81796  used memory
+        29148  active memory
+         6208  inactive memory
+       172764  free memory
+          720  buffer memory
+        11012  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724184 non-nice user cpu ticks
+         1109 nice user cpu ticks
+      2772244 system cpu ticks
+    151863451 idle cpu ticks
+        17147 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375664 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90443619 interrupts
+    831433466 CPU context switches
+   1041407974 boot time
+      1592875 forks
+       254560  total memory
+        81760  used memory
+        29168  active memory
+         6220  inactive memory
+       172800  free memory
+          720  buffer memory
+        11040  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724192 non-nice user cpu ticks
+         1110 nice user cpu ticks
+      2772255 system cpu ticks
+    151863859 idle cpu ticks
+        17147 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375668 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90443900 interrupts
+    831435831 CPU context switches
+   1041407974 boot time
+      1592888 forks
+       254560  total memory
+        81808  used memory
+        29160  active memory
+         6232  inactive memory
+       172752  free memory
+          720  buffer memory
+        11072  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724199 non-nice user cpu ticks
+         1110 nice user cpu ticks
+      2772271 system cpu ticks
+    151864268 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375669 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90444183 interrupts
+    831438228 CPU context switches
+   1041407974 boot time
+      1592901 forks
+       254560  total memory
+        81836  used memory
+        29212  active memory
+         6244  inactive memory
+       172724  free memory
+          720  buffer memory
+        11108  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724209 non-nice user cpu ticks
+         1110 nice user cpu ticks
+      2772280 system cpu ticks
+    151864679 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375671 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90444476 interrupts
+    831440585 CPU context switches
+   1041407974 boot time
+      1592914 forks
+       254560  total memory
+        81888  used memory
+        29232  active memory
+         6256  inactive memory
+       172672  free memory
+          720  buffer memory
+        11168  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724218 non-nice user cpu ticks
+         1111 nice user cpu ticks
+      2772303 system cpu ticks
+    151865077 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375674 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90444731 interrupts
+    831442951 CPU context switches
+   1041407974 boot time
+      1592929 forks
+       254560  total memory
+        81956  used memory
+        29236  active memory
+         6272  inactive memory
+       172604  free memory
+          720  buffer memory
+        11184  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724226 non-nice user cpu ticks
+         1112 nice user cpu ticks
+      2772326 system cpu ticks
+    151865475 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375676 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90445039 interrupts
+    831445333 CPU context switches
+   1041407974 boot time
+      1592942 forks
+       254560  total memory
+        81944  used memory
+        29272  active memory
+         6276  inactive memory
+       172616  free memory
+          720  buffer memory
+        11200  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724233 non-nice user cpu ticks
+         1112 nice user cpu ticks
+      2772339 system cpu ticks
+    151865886 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375677 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90445360 interrupts
+    831447717 CPU context switches
+   1041407974 boot time
+      1592955 forks
+       254560  total memory
+        81984  used memory
+        29264  active memory
+         6284  inactive memory
+       172576  free memory
+          720  buffer memory
+        11228  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724240 non-nice user cpu ticks
+         1112 nice user cpu ticks
+      2772360 system cpu ticks
+    151866289 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375678 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90445701 interrupts
+    831450150 CPU context switches
+   1041407974 boot time
+      1592968 forks
+       254560  total memory
+        82060  used memory
+        29284  active memory
+         6300  inactive memory
+       172500  free memory
+          720  buffer memory
+        11264  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724249 non-nice user cpu ticks
+         1112 nice user cpu ticks
+      2772378 system cpu ticks
+    151866694 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375678 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90446006 interrupts
+    831452560 CPU context switches
+   1041407974 boot time
+      1592981 forks
+       254560  total memory
+        82104  used memory
+        29336  active memory
+         6304  inactive memory
+       172456  free memory
+          720  buffer memory
+        11292  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724254 non-nice user cpu ticks
+         1112 nice user cpu ticks
+      2772393 system cpu ticks
+    151867105 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375679 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90446270 interrupts
+    831454949 CPU context switches
+   1041407974 boot time
+      1592994 forks
+       254560  total memory
+        82068  used memory
+        29356  active memory
+         6316  inactive memory
+       172492  free memory
+          720  buffer memory
+        11352  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724266 non-nice user cpu ticks
+         1113 nice user cpu ticks
+      2772403 system cpu ticks
+    151867514 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375679 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90446551 interrupts
+    831457300 CPU context switches
+   1041407974 boot time
+      1593007 forks
+       254560  total memory
+        82284  used memory
+        29376  active memory
+         6340  inactive memory
+       172276  free memory
+          720  buffer memory
+        11368  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724273 non-nice user cpu ticks
+         1113 nice user cpu ticks
+      2772422 system cpu ticks
+    151867918 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375681 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90446869 interrupts
+    831459740 CPU context switches
+   1041407974 boot time
+      1593020 forks
+       254560  total memory
+        82188  used memory
+        29396  active memory
+         6344  inactive memory
+       172372  free memory
+          720  buffer memory
+        11392  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724284 non-nice user cpu ticks
+         1113 nice user cpu ticks
+      2772430 system cpu ticks
+    151868331 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375681 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90447191 interrupts
+    831462210 CPU context switches
+   1041407974 boot time
+      1593035 forks
+       254560  total memory
+        82236  used memory
+        29416  active memory
+         6360  inactive memory
+       172324  free memory
+          720  buffer memory
+        11456  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724291 non-nice user cpu ticks
+         1113 nice user cpu ticks
+      2772448 system cpu ticks
+    151868732 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375687 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90447516 interrupts
+    831464588 CPU context switches
+   1041407974 boot time
+      1593048 forks
+       254560  total memory
+        82220  used memory
+        29412  active memory
+         6364  inactive memory
+       172340  free memory
+          720  buffer memory
+        11460  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724302 non-nice user cpu ticks
+         1113 nice user cpu ticks
+      2772460 system cpu ticks
+    151869139 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375689 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90447895 interrupts
+    831466985 CPU context switches
+   1041407974 boot time
+      1593061 forks
+       254560  total memory
+        82312  used memory
+        29460  active memory
+         6380  inactive memory
+       172248  free memory
+          720  buffer memory
+        11492  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724311 non-nice user cpu ticks
+         1113 nice user cpu ticks
+      2772480 system cpu ticks
+    151869539 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375692 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90448207 interrupts
+    831469387 CPU context switches
+   1041407974 boot time
+      1593074 forks
+       254560  total memory
+        82344  used memory
+        29480  active memory
+         6384  inactive memory
+       172216  free memory
+          720  buffer memory
+        11516  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724320 non-nice user cpu ticks
+         1114 nice user cpu ticks
+      2772491 system cpu ticks
+    151869945 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375693 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90448457 interrupts
+    831471740 CPU context switches
+   1041407974 boot time
+      1593087 forks
+       254560  total memory
+        82348  used memory
+        29500  active memory
+         6396  inactive memory
+       172212  free memory
+          720  buffer memory
+        11548  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724325 non-nice user cpu ticks
+         1115 nice user cpu ticks
+      2772509 system cpu ticks
+    151870348 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375696 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90448728 interrupts
+    831474094 CPU context switches
+   1041407974 boot time
+      1593100 forks
+       254560  total memory
+        82348  used memory
+        29504  active memory
+         6404  inactive memory
+       172212  free memory
+          720  buffer memory
+        11584  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724332 non-nice user cpu ticks
+         1115 nice user cpu ticks
+      2772526 system cpu ticks
+    151870754 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375698 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90449030 interrupts
+    831476480 CPU context switches
+   1041407974 boot time
+      1593113 forks
+       254560  total memory
+        82404  used memory
+        29544  active memory
+         6404  inactive memory
+       172156  free memory
+          720  buffer memory
+        11628  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724341 non-nice user cpu ticks
+         1115 nice user cpu ticks
+      2772544 system cpu ticks
+    151871157 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375698 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90449268 interrupts
+    831478822 CPU context switches
+   1041407974 boot time
+      1593128 forks
+       254560  total memory
+        82420  used memory
+        29564  active memory
+         6412  inactive memory
+       172140  free memory
+          720  buffer memory
+        11628  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724349 non-nice user cpu ticks
+         1115 nice user cpu ticks
+      2772563 system cpu ticks
+    151871556 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375700 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90449529 interrupts
+    831481156 CPU context switches
+   1041407974 boot time
+      1593141 forks
+       254560  total memory
+        82468  used memory
+        29576  active memory
+         6416  inactive memory
+       172092  free memory
+          720  buffer memory
+        11652  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724358 non-nice user cpu ticks
+         1115 nice user cpu ticks
+      2772578 system cpu ticks
+    151871961 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375701 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90449771 interrupts
+    831483483 CPU context switches
+   1041407974 boot time
+      1593154 forks
+       254560  total memory
+        82484  used memory
+        29604  active memory
+         6424  inactive memory
+       172076  free memory
+          720  buffer memory
+        11680  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724365 non-nice user cpu ticks
+         1115 nice user cpu ticks
+      2772595 system cpu ticks
+    151872366 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375702 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90450041 interrupts
+    831485838 CPU context switches
+   1041407974 boot time
+      1593167 forks
+       254560  total memory
+        82516  used memory
+        29596  active memory
+         6428  inactive memory
+       172044  free memory
+          720  buffer memory
+        11704  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724372 non-nice user cpu ticks
+         1115 nice user cpu ticks
+      2772611 system cpu ticks
+    151872770 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375703 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90450355 interrupts
+    831488197 CPU context switches
+   1041407974 boot time
+      1593180 forks
+       254560  total memory
+        82552  used memory
+        29616  active memory
+         6436  inactive memory
+       172008  free memory
+          720  buffer memory
+        11732  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724380 non-nice user cpu ticks
+         1115 nice user cpu ticks
+      2772626 system cpu ticks
+    151873176 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375704 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90450672 interrupts
+    831490567 CPU context switches
+   1041407974 boot time
+      1593193 forks
+       254560  total memory
+        82604  used memory
+        29660  active memory
+         6436  inactive memory
+       171956  free memory
+          720  buffer memory
+        11756  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724386 non-nice user cpu ticks
+         1115 nice user cpu ticks
+      2772646 system cpu ticks
+    151873578 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375704 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90450928 interrupts
+    831492932 CPU context switches
+   1041407974 boot time
+      1593206 forks
+       254560  total memory
+        82580  used memory
+        29688  active memory
+         6444  inactive memory
+       171980  free memory
+          720  buffer memory
+        11784  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724393 non-nice user cpu ticks
+         1117 nice user cpu ticks
+      2772658 system cpu ticks
+    151873985 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375706 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90451199 interrupts
+    831495305 CPU context switches
+   1041407974 boot time
+      1593219 forks
+       254560  total memory
+        82772  used memory
+        29708  active memory
+         6452  inactive memory
+       171788  free memory
+          720  buffer memory
+        11812  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724402 non-nice user cpu ticks
+         1117 nice user cpu ticks
+      2772670 system cpu ticks
+    151874393 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375707 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90451491 interrupts
+    831497702 CPU context switches
+   1041407974 boot time
+      1593234 forks
+       254560  total memory
+        82640  used memory
+        29728  active memory
+         6452  inactive memory
+       171920  free memory
+          720  buffer memory
+        11864  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724408 non-nice user cpu ticks
+         1118 nice user cpu ticks
+      2772687 system cpu ticks
+    151874798 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375708 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90451870 interrupts
+    831500159 CPU context switches
+   1041407974 boot time
+      1593247 forks
+       254560  total memory
+        82664  used memory
+        29748  active memory
+         6468  inactive memory
+       171896  free memory
+          720  buffer memory
+        11868  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724413 non-nice user cpu ticks
+         1118 nice user cpu ticks
+      2772705 system cpu ticks
+    151875199 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375712 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90452168 interrupts
+    831502494 CPU context switches
+   1041407974 boot time
+      1593260 forks
+       254560  total memory
+        82664  used memory
+        29772  active memory
+         6468  inactive memory
+       171896  free memory
+          720  buffer memory
+        11920  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724420 non-nice user cpu ticks
+         1118 nice user cpu ticks
+      2772719 system cpu ticks
+    151875608 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375712 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90452390 interrupts
+    831504841 CPU context switches
+   1041407974 boot time
+      1593273 forks
+       254560  total memory
+        82756  used memory
+        29792  active memory
+         6476  inactive memory
+       171804  free memory
+          720  buffer memory
+        11920  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724427 non-nice user cpu ticks
+         1118 nice user cpu ticks
+      2772739 system cpu ticks
+    151876008 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375713 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90452614 interrupts
+    831507161 CPU context switches
+   1041407974 boot time
+      1593286 forks
+       254560  total memory
+        82776  used memory
+        29812  active memory
+         6480  inactive memory
+       171784  free memory
+          720  buffer memory
+        11944  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724434 non-nice user cpu ticks
+         1118 nice user cpu ticks
+      2772756 system cpu ticks
+    151876412 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375715 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90452890 interrupts
+    831509539 CPU context switches
+   1041407974 boot time
+      1593299 forks
+       254560  total memory
+        82804  used memory
+        29832  active memory
+         6480  inactive memory
+       171756  free memory
+          720  buffer memory
+        11992  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724441 non-nice user cpu ticks
+         1119 nice user cpu ticks
+      2772768 system cpu ticks
+    151876817 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375718 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90453184 interrupts
+    831511876 CPU context switches
+   1041407974 boot time
+      1593312 forks
+       254560  total memory
+        82860  used memory
+        29852  active memory
+         6492  inactive memory
+       171700  free memory
+          720  buffer memory
+        11996  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724449 non-nice user cpu ticks
+         1120 nice user cpu ticks
+      2772780 system cpu ticks
+    151877225 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375719 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90453482 interrupts
+    831514280 CPU context switches
+   1041407974 boot time
+      1593325 forks
+       254560  total memory
+        82868  used memory
+        29872  active memory
+         6504  inactive memory
+       171692  free memory
+          720  buffer memory
+        12028  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724457 non-nice user cpu ticks
+         1120 nice user cpu ticks
+      2772793 system cpu ticks
+    151877634 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375719 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90453809 interrupts
+    831516664 CPU context switches
+   1041407974 boot time
+      1593340 forks
+       254560  total memory
+        82896  used memory
+        29900  active memory
+         6500  inactive memory
+       171664  free memory
+          720  buffer memory
+        12052  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724462 non-nice user cpu ticks
+         1120 nice user cpu ticks
+      2772805 system cpu ticks
+    151878044 idle cpu ticks
+        17148 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375720 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90454111 interrupts
+    831519060 CPU context switches
+   1041407974 boot time
+      1593353 forks
+       254560  total memory
+        82916  used memory
+        29916  active memory
+         6508  inactive memory
+       171644  free memory
+          724  buffer memory
+        12100  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724467 non-nice user cpu ticks
+         1120 nice user cpu ticks
+      2772833 system cpu ticks
+    151878441 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375721 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90454385 interrupts
+    831521436 CPU context switches
+   1041407974 boot time
+      1593366 forks
+       254560  total memory
+        82980  used memory
+        29928  active memory
+         6524  inactive memory
+       171580  free memory
+          724  buffer memory
+        12120  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724476 non-nice user cpu ticks
+         1120 nice user cpu ticks
+      2772848 system cpu ticks
+    151878846 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375722 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90454659 interrupts
+    831523791 CPU context switches
+   1041407974 boot time
+      1593379 forks
+       254560  total memory
+        82984  used memory
+        29960  active memory
+         6524  inactive memory
+       171576  free memory
+          724  buffer memory
+        12132  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724484 non-nice user cpu ticks
+         1121 nice user cpu ticks
+      2772865 system cpu ticks
+    151879248 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375722 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90454905 interrupts
+    831526134 CPU context switches
+   1041407974 boot time
+      1593392 forks
+       254560  total memory
+        83064  used memory
+        29980  active memory
+         6532  inactive memory
+       171496  free memory
+          724  buffer memory
+        12160  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724490 non-nice user cpu ticks
+         1121 nice user cpu ticks
+      2772876 system cpu ticks
+    151879660 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375723 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90455145 interrupts
+    831528476 CPU context switches
+   1041407974 boot time
+      1593405 forks
+       254560  total memory
+        83044  used memory
+        30004  active memory
+         6532  inactive memory
+       171516  free memory
+          724  buffer memory
+        12184  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724500 non-nice user cpu ticks
+         1121 nice user cpu ticks
+      2772894 system cpu ticks
+    151880059 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375726 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90455430 interrupts
+    831530838 CPU context switches
+   1041407974 boot time
+      1593418 forks
+       254560  total memory
+        83100  used memory
+        30024  active memory
+         6536  inactive memory
+       171460  free memory
+          724  buffer memory
+        12240  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724509 non-nice user cpu ticks
+         1121 nice user cpu ticks
+      2772907 system cpu ticks
+    151880465 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375726 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90455726 interrupts
+    831533223 CPU context switches
+   1041407974 boot time
+      1593431 forks
+       254560  total memory
+        83156  used memory
+        30044  active memory
+         6552  inactive memory
+       171404  free memory
+          724  buffer memory
+        12244  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724521 non-nice user cpu ticks
+         1122 nice user cpu ticks
+      2772925 system cpu ticks
+    151880864 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375726 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90455977 interrupts
+    831535556 CPU context switches
+   1041407974 boot time
+      1593446 forks
+       254560  total memory
+        83140  used memory
+        30064  active memory
+         6552  inactive memory
+       171420  free memory
+          724  buffer memory
+        12264  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724528 non-nice user cpu ticks
+         1123 nice user cpu ticks
+      2772942 system cpu ticks
+    151881268 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375727 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90456371 interrupts
+    831538079 CPU context switches
+   1041407974 boot time
+      1593459 forks
+       254560  total memory
+        83160  used memory
+        30080  active memory
+         6564  inactive memory
+       171400  free memory
+          724  buffer memory
+        12308  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724535 non-nice user cpu ticks
+         1123 nice user cpu ticks
+      2772958 system cpu ticks
+    151881671 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375729 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90456678 interrupts
+    831540482 CPU context switches
+   1041407974 boot time
+      1593472 forks
+       254560  total memory
+        83224  used memory
+        30104  active memory
+         6568  inactive memory
+       171336  free memory
+          724  buffer memory
+        12320  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724541 non-nice user cpu ticks
+         1123 nice user cpu ticks
+      2772980 system cpu ticks
+    151882073 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375729 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90456904 interrupts
+    831542832 CPU context switches
+   1041407974 boot time
+      1593485 forks
+       254560  total memory
+        83268  used memory
+        30128  active memory
+         6568  inactive memory
+       171292  free memory
+          724  buffer memory
+        12344  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724546 non-nice user cpu ticks
+         1123 nice user cpu ticks
+      2773004 system cpu ticks
+    151882471 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375730 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90457204 interrupts
+    831545166 CPU context switches
+   1041407974 boot time
+      1593498 forks
+       254560  total memory
+        83288  used memory
+        30148  active memory
+         6572  inactive memory
+       171272  free memory
+          724  buffer memory
+        12368  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724554 non-nice user cpu ticks
+         1123 nice user cpu ticks
+      2773020 system cpu ticks
+    151882875 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375732 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90457531 interrupts
+    831547501 CPU context switches
+   1041407974 boot time
+      1593511 forks
+       254560  total memory
+        83272  used memory
+        30168  active memory
+         6580  inactive memory
+       171288  free memory
+          724  buffer memory
+        12396  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724558 non-nice user cpu ticks
+         1123 nice user cpu ticks
+      2773038 system cpu ticks
+    151883280 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375733 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90457817 interrupts
+    831549850 CPU context switches
+   1041407974 boot time
+      1593524 forks
+       254560  total memory
+        83284  used memory
+        30188  active memory
+         6584  inactive memory
+       171276  free memory
+          724  buffer memory
+        12420  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724566 non-nice user cpu ticks
+         1123 nice user cpu ticks
+      2773048 system cpu ticks
+    151883691 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375736 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90458095 interrupts
+    831552181 CPU context switches
+   1041407974 boot time
+      1593537 forks
+       254560  total memory
+        83392  used memory
+        30208  active memory
+         6600  inactive memory
+       171168  free memory
+          724  buffer memory
+        12456  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724572 non-nice user cpu ticks
+         1123 nice user cpu ticks
+      2773063 system cpu ticks
+    151884097 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375737 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90458383 interrupts
+    831554543 CPU context switches
+   1041407974 boot time
+      1593552 forks
+       254560  total memory
+        83364  used memory
+        30216  active memory
+         6604  inactive memory
+       171196  free memory
+          724  buffer memory
+        12492  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724578 non-nice user cpu ticks
+         1123 nice user cpu ticks
+      2773073 system cpu ticks
+    151884509 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375739 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90458632 interrupts
+    831556882 CPU context switches
+   1041407974 boot time
+      1593565 forks
+       254560  total memory
+        83392  used memory
+        30252  active memory
+         6604  inactive memory
+       171168  free memory
+          724  buffer memory
+        12504  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724587 non-nice user cpu ticks
+         1123 nice user cpu ticks
+      2773093 system cpu ticks
+    151884909 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375740 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90458881 interrupts
+    831559247 CPU context switches
+   1041407974 boot time
+      1593578 forks
+       254560  total memory
+        83432  used memory
+        30272  active memory
+         6608  inactive memory
+       171128  free memory
+          724  buffer memory
+        12556  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724591 non-nice user cpu ticks
+         1123 nice user cpu ticks
+      2773107 system cpu ticks
+    151885319 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375740 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90459179 interrupts
+    831561630 CPU context switches
+   1041407974 boot time
+      1593591 forks
+       254560  total memory
+        83460  used memory
+        30292  active memory
+         6616  inactive memory
+       171100  free memory
+          724  buffer memory
+        12556  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724601 non-nice user cpu ticks
+         1125 nice user cpu ticks
+      2773115 system cpu ticks
+    151885728 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375741 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90459472 interrupts
+    831563978 CPU context switches
+   1041407974 boot time
+      1593604 forks
+       254560  total memory
+        83496  used memory
+        30300  active memory
+         6620  inactive memory
+       171064  free memory
+          724  buffer memory
+        12612  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724612 non-nice user cpu ticks
+         1125 nice user cpu ticks
+      2773123 system cpu ticks
+    151886138 idle cpu ticks
+        17149 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375742 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90459736 interrupts
+    831566341 CPU context switches
+   1041407974 boot time
+      1593617 forks
+       254560  total memory
+        83516  used memory
+        30336  active memory
+         6632  inactive memory
+       171044  free memory
+          728  buffer memory
+        12612  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724617 non-nice user cpu ticks
+         1126 nice user cpu ticks
+      2773139 system cpu ticks
+    151886542 idle cpu ticks
+        17150 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375745 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90460033 interrupts
+    831568690 CPU context switches
+   1041407974 boot time
+      1593630 forks
+       254560  total memory
+        83560  used memory
+        30360  active memory
+         6628  inactive memory
+       171000  free memory
+          728  buffer memory
+        12632  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724624 non-nice user cpu ticks
+         1127 nice user cpu ticks
+      2773162 system cpu ticks
+    151886940 idle cpu ticks
+        17150 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375746 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90460325 interrupts
+    831571069 CPU context switches
+   1041407974 boot time
+      1593643 forks
+       254560  total memory
+        83624  used memory
+        30372  active memory
+         6640  inactive memory
+       170936  free memory
+          728  buffer memory
+        12692  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724633 non-nice user cpu ticks
+         1127 nice user cpu ticks
+      2773178 system cpu ticks
+    151887343 idle cpu ticks
+        17150 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375746 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90460586 interrupts
+    831573416 CPU context switches
+   1041407974 boot time
+      1593658 forks
+       254560  total memory
+        83608  used memory
+        30372  active memory
+         6648  inactive memory
+       170952  free memory
+          728  buffer memory
+        12692  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724637 non-nice user cpu ticks
+         1127 nice user cpu ticks
+      2773191 system cpu ticks
+    151887754 idle cpu ticks
+        17150 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375748 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90460886 interrupts
+    831575917 CPU context switches
+   1041407974 boot time
+      1593671 forks
+       254560  total memory
+        83636  used memory
+        30420  active memory
+         6648  inactive memory
+       170924  free memory
+          728  buffer memory
+        12712  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724643 non-nice user cpu ticks
+         1127 nice user cpu ticks
+      2773212 system cpu ticks
+    151888156 idle cpu ticks
+        17150 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375749 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90461132 interrupts
+    831578257 CPU context switches
+   1041407974 boot time
+      1593684 forks
+       254560  total memory
+        83664  used memory
+        30412  active memory
+         6656  inactive memory
+       170896  free memory
+          728  buffer memory
+        12740  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724651 non-nice user cpu ticks
+         1128 nice user cpu ticks
+      2773225 system cpu ticks
+    151888559 idle cpu ticks
+        17150 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375752 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90461392 interrupts
+    831580616 CPU context switches
+   1041407974 boot time
+      1593697 forks
+       254560  total memory
+        83744  used memory
+        30464  active memory
+         6664  inactive memory
+       170816  free memory
+          728  buffer memory
+        12800  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724661 non-nice user cpu ticks
+         1129 nice user cpu ticks
+      2773243 system cpu ticks
+    151888960 idle cpu ticks
+        17150 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375752 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90461645 interrupts
+    831582985 CPU context switches
+   1041407974 boot time
+      1593710 forks
+       254560  total memory
+        83740  used memory
+        30484  active memory
+         6672  inactive memory
+       170820  free memory
+          728  buffer memory
+        12800  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724671 non-nice user cpu ticks
+         1129 nice user cpu ticks
+      2773253 system cpu ticks
+    151889363 idle cpu ticks
+        17150 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375757 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90461933 interrupts
+    831585362 CPU context switches
+   1041407974 boot time
+      1593723 forks
+       254560  total memory
+        83820  used memory
+        30504  active memory
+         6672  inactive memory
+       170740  free memory
+          728  buffer memory
+        12848  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724682 non-nice user cpu ticks
+         1129 nice user cpu ticks
+      2773266 system cpu ticks
+    151889768 idle cpu ticks
+        17150 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375758 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90462219 interrupts
+    831587767 CPU context switches
+   1041407974 boot time
+      1593736 forks
+       254560  total memory
+        83828  used memory
+        30524  active memory
+         6680  inactive memory
+       170732  free memory
+          728  buffer memory
+        12848  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724686 non-nice user cpu ticks
+         1130 nice user cpu ticks
+      2773281 system cpu ticks
+    151890175 idle cpu ticks
+        17150 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375759 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90462568 interrupts
+    831590139 CPU context switches
+   1041407974 boot time
+      1593749 forks
+       254560  total memory
+        83872  used memory
+        30544  active memory
+         6696  inactive memory
+       170688  free memory
+          728  buffer memory
+        12884  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724693 non-nice user cpu ticks
+         1132 nice user cpu ticks
+      2773299 system cpu ticks
+    151890578 idle cpu ticks
+        17150 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375759 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90462805 interrupts
+    831592513 CPU context switches
+   1041407974 boot time
+      1593764 forks
+       254560  total memory
+        83860  used memory
+        30568  active memory
+         6692  inactive memory
+       170700  free memory
+          728  buffer memory
+        12932  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724702 non-nice user cpu ticks
+         1133 nice user cpu ticks
+      2773315 system cpu ticks
+    151890981 idle cpu ticks
+        17150 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375760 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90463100 interrupts
+    831594900 CPU context switches
+   1041407974 boot time
+      1593777 forks
+       254560  total memory
+        83916  used memory
+        30588  active memory
+         6700  inactive memory
+       170644  free memory
+          728  buffer memory
+        12932  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724711 non-nice user cpu ticks
+         1133 nice user cpu ticks
+      2773338 system cpu ticks
+    151891377 idle cpu ticks
+        17150 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375760 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90463417 interrupts
+    831597268 CPU context switches
+   1041407974 boot time
+      1593790 forks
+       254560  total memory
+        83932  used memory
+        30580  active memory
+         6700  inactive memory
+       170628  free memory
+          728  buffer memory
+        12956  swap cache
+            0  total swap
+            0  used swap
+            0  free swap
+       724719 non-nice user cpu ticks
+         1133 nice user cpu ticks
+      2773353 system cpu ticks
+    151891783 idle cpu ticks
+        17150 IO-wait cpu ticks
+            0 IRQ cpu ticks
+       375761 softirq cpu ticks
+            0 stolen cpu ticks
+            0 pages paged in
+            0 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+     90463694 interrupts
+    831599637 CPU context switches
+   1041407974 boot time
+      1593803 forks
