@@ -1,0 +1,252 @@
+Brute_Force Run 1,Attack,# Running Processes,118.72142857142858
+Brute_Force Run 2,Attack,# Running Processes,119.65
+Brute_Force Run 3,Attack,# Running Processes,119.63571428571429
+Home_Vacation Run 1,Normal,# Running Processes,117.046875
+Home_Vacation Run 2,Normal,# Running Processes,117.94285714285714
+Home_Vacation Run 3,Normal,# Running Processes,118.0
+Home_Weekday Run 1,Normal,# Running Processes,119.02307692307693
+Home_Weekday Run 2,Normal,# Running Processes,119.01538461538462
+Home_Weekday Run 3,Normal,# Running Processes,118.0
+Home_Weekend Run 1,Normal,# Running Processes,117.0
+Home_Weekend Run 2,Normal,# Running Processes,118.0381679389313
+Home_Weekend Run 3,Normal,# Running Processes,118.03100775193798
+Hping3 Run 1,Attack,# Running Processes,119.0077519379845
+Hping3 Run 2,Attack,# Running Processes,119.02325581395348
+Hping3 Run 3,Attack,# Running Processes,118.9922480620155
+Infrastructure Run 1,Normal,# Running Processes,118.6923076923077
+Infrastructure Run 2,Normal,# Running Processes,118.01550387596899
+Infrastructure Run 3,Normal,# Running Processes,118.0
+Large_Ping Run 1,Attack,# Running Processes,118.0
+Large_Ping Run 2,Attack,# Running Processes,118.96907216494846
+Large_Ping Run 3,Attack,# Running Processes,119.0204081632653
+Ping_Flood Run 1,Attack,# Running Processes,127.1923076923077
+Ping_Flood Run 2,Attack,# Running Processes,126.2158273381295
+Ping_Flood Run 3,Attack,# Running Processes,124.1923076923077
+Scanning Run 1,Attack,# Running Processes,118.0
+Scanning Run 2,Attack,# Running Processes,119.26153846153846
+Scanning Run 3,Attack,# Running Processes,119.30232558139535
+
+Brute_Force Run 1,Attack,% Memory Used,33.09938717787555
+Brute_Force Run 2,Attack,% Memory Used,32.40537173386011
+Brute_Force Run 3,Attack,% Memory Used,32.80693858310137
+Home_Vacation Run 1,Normal,% Memory Used,32.03628319453174
+Home_Vacation Run 2,Normal,% Memory Used,32.98236733411152
+Home_Vacation Run 3,Normal,% Memory Used,32.984151926012395
+Home_Weekday Run 1,Normal,% Memory Used,32.921263839868494
+Home_Weekday Run 2,Normal,% Memory Used,32.85410723782817
+Home_Weekday Run 3,Normal,% Memory Used,32.880653774380114
+Home_Weekend Run 1,Normal,% Memory Used,32.01794693364461
+Home_Weekend Run 2,Normal,% Memory Used,32.80120600251414
+Home_Weekend Run 3,Normal,% Memory Used,31.95693541921339
+Hping3 Run 1,Attack,% Memory Used,32.15225907356789
+Hping3 Run 2,Attack,% Memory Used,32.13901841267985
+Hping3 Run 3,Attack,% Memory Used,32.15437855378364
+Infrastructure Run 1,Normal,% Memory Used,32.824614417637676
+Infrastructure Run 2,Normal,% Memory Used,32.41064076515672
+Infrastructure Run 3,Normal,% Memory Used,32.84643756790863
+Large_Ping Run 1,Attack,% Memory Used,31.084855534028396
+Large_Ping Run 2,Attack,% Memory Used,31.927728036532024
+Large_Ping Run 3,Attack,% Memory Used,31.868514219012557
+Ping_Flood Run 1,Attack,% Memory Used,31.862435333365568
+Ping_Flood Run 2,Attack,% Memory Used,32.71022025873958
+Ping_Flood Run 3,Attack,% Memory Used,32.1514770584538
+Scanning Run 1,Attack,% Memory Used,31.55550193050193
+Scanning Run 2,Attack,% Memory Used,32.232488852155576
+Scanning Run 3,Attack,% Memory Used,32.111550436320584
+
+Brute_Force Run 1,Attack,% Usr CPU Usage,0.4221428571428565
+Brute_Force Run 2,Attack,% Usr CPU Usage,0.47285714285714237
+Brute_Force Run 3,Attack,% Usr CPU Usage,0.48071428571428537
+Home_Vacation Run 1,Normal,% Usr CPU Usage,1.071093750000003
+Home_Vacation Run 2,Normal,% Usr CPU Usage,0.542142857142857
+Home_Vacation Run 3,Normal,% Usr CPU Usage,0.4849999999999997
+Home_Weekday Run 1,Normal,% Usr CPU Usage,0.5115384615384607
+Home_Weekday Run 2,Normal,% Usr CPU Usage,0.44923076923076855
+Home_Weekday Run 3,Normal,% Usr CPU Usage,0.4837209302325575
+Home_Weekend Run 1,Normal,% Usr CPU Usage,0.44857142857142784
+Home_Weekend Run 2,Normal,% Usr CPU Usage,0.44140624999999933
+Home_Weekend Run 3,Normal,% Usr CPU Usage,0.3937007874015742
+Hping3 Run 1,Attack,% Usr CPU Usage,0.4302325581395343
+Hping3 Run 2,Attack,% Usr CPU Usage,0.537209302325581
+Hping3 Run 3,Attack,% Usr CPU Usage,0.5054263565891467
+Infrastructure Run 1,Normal,% Usr CPU Usage,0.5084615384615379
+Infrastructure Run 2,Normal,% Usr CPU Usage,0.4775193798449605
+Infrastructure Run 3,Normal,% Usr CPU Usage,0.4697674418604645
+Large_Ping Run 1,Attack,% Usr CPU Usage,0.40515463917525735
+Large_Ping Run 2,Attack,% Usr CPU Usage,0.48469387755101984
+Large_Ping Run 3,Attack,% Usr CPU Usage,0.5112244897959177
+Ping_Flood Run 1,Attack,% Usr CPU Usage,0.49461538461538396
+Ping_Flood Run 2,Attack,% Usr CPU Usage,0.5654676258992807
+Ping_Flood Run 3,Attack,% Usr CPU Usage,0.5015384615384609
+Scanning Run 1,Attack,% Usr CPU Usage,0.47571428571428526
+Scanning Run 2,Attack,% Usr CPU Usage,0.4511811023622041
+Scanning Run 3,Attack,% Usr CPU Usage,0.5317829457364335
+
+Brute_Force Run 1,Attack,% Sys CPU Usage,1.9664285714285739
+Brute_Force Run 2,Attack,% Sys CPU Usage,1.9314285714285733
+Brute_Force Run 3,Attack,% Sys CPU Usage,2.1449999999999987
+Home_Vacation Run 1,Normal,% Sys CPU Usage,2.2585937500000006
+Home_Vacation Run 2,Normal,% Sys CPU Usage,2.098571428571429
+Home_Vacation Run 3,Normal,% Sys CPU Usage,2.1399999999999997
+Home_Weekday Run 1,Normal,% Sys CPU Usage,1.7446153846153885
+Home_Weekday Run 2,Normal,% Sys CPU Usage,2.0746153846153863
+Home_Weekday Run 3,Normal,% Sys CPU Usage,2.1465116279069774
+Home_Weekend Run 1,Normal,% Sys CPU Usage,2.027857142857143
+Home_Weekend Run 2,Normal,% Sys CPU Usage,2.2164062500000017
+Home_Weekend Run 3,Normal,% Sys CPU Usage,2.0385826771653575
+Hping3 Run 1,Attack,% Sys CPU Usage,1.8914728682170578
+Hping3 Run 2,Attack,% Sys CPU Usage,1.8945736434108562
+Hping3 Run 3,Attack,% Sys CPU Usage,1.8720930232558177
+Infrastructure Run 1,Normal,% Sys CPU Usage,1.9900000000000033
+Infrastructure Run 2,Normal,% Sys CPU Usage,1.8899224806201584
+Infrastructure Run 3,Normal,% Sys CPU Usage,1.998449612403104
+Large_Ping Run 1,Attack,% Sys CPU Usage,1.815463917525776
+Large_Ping Run 2,Attack,% Sys CPU Usage,1.8724489795918395
+Large_Ping Run 3,Attack,% Sys CPU Usage,2.4010204081632702
+Ping_Flood Run 1,Attack,% Sys CPU Usage,1.9238461538461575
+Ping_Flood Run 2,Attack,% Sys CPU Usage,2.1136690647482017
+Ping_Flood Run 3,Attack,% Sys CPU Usage,2.113076923076925
+Scanning Run 1,Attack,% Sys CPU Usage,2.2471428571428547
+Scanning Run 2,Attack,% Sys CPU Usage,2.4133858267716524
+Scanning Run 3,Attack,% Sys CPU Usage,2.258914728682171
+
+Brute_Force Run 1,Attack,% Idle CPU Usage,97.17928571428571
+Brute_Force Run 2,Attack,% Idle CPU Usage,97.08214285714286
+Brute_Force Run 3,Attack,% Idle CPU Usage,96.95428571428572
+Home_Vacation Run 1,Normal,% Idle CPU Usage,96.21171875
+Home_Vacation Run 2,Normal,% Idle CPU Usage,96.78357142857143
+Home_Vacation Run 3,Normal,% Idle CPU Usage,96.92571428571429
+Home_Weekday Run 1,Normal,% Idle CPU Usage,97.2623076923077
+Home_Weekday Run 2,Normal,% Idle CPU Usage,96.93307692307691
+Home_Weekday Run 3,Normal,% Idle CPU Usage,96.82790697674417
+Home_Weekend Run 1,Normal,% Idle CPU Usage,96.975
+Home_Weekend Run 2,Normal,% Idle CPU Usage,96.8796875
+Home_Weekend Run 3,Normal,% Idle CPU Usage,97.02440944881891
+Hping3 Run 1,Attack,% Idle CPU Usage,91.29767441860466
+Hping3 Run 2,Attack,% Idle CPU Usage,90.87519379844962
+Hping3 Run 3,Attack,% Idle CPU Usage,91.28682170542636
+Infrastructure Run 1,Normal,% Idle CPU Usage,96.98076923076923
+Infrastructure Run 2,Normal,% Idle CPU Usage,97.16434108527132
+Infrastructure Run 3,Normal,% Idle CPU Usage,97.06589147286822
+Large_Ping Run 1,Attack,% Idle CPU Usage,97.3
+Large_Ping Run 2,Attack,% Idle CPU Usage,97.1734693877551
+Large_Ping Run 3,Attack,% Idle CPU Usage,96.39795918367346
+Ping_Flood Run 1,Attack,% Idle CPU Usage,97.03153846153846
+Ping_Flood Run 2,Attack,% Idle CPU Usage,96.80287769784172
+Ping_Flood Run 3,Attack,% Idle CPU Usage,96.87
+Scanning Run 1,Attack,% Idle CPU Usage,96.785
+Scanning Run 2,Attack,% Idle CPU Usage,96.61811023622047
+Scanning Run 3,Attack,% Idle CPU Usage,96.65503875968992
+
+Brute_Force Run 1,Attack,# Open Connections,28.77857142857143
+Brute_Force Run 2,Attack,# Open Connections,28.735714285714284
+Brute_Force Run 3,Attack,# Open Connections,28.742857142857144
+Home_Vacation Run 1,Normal,# Open Connections,27.1953125
+Home_Vacation Run 2,Normal,# Open Connections,27.057142857142857
+Home_Vacation Run 3,Normal,# Open Connections,27.221374045801525
+Home_Weekday Run 1,Normal,# Open Connections,27.06153846153846
+Home_Weekday Run 2,Normal,# Open Connections,27.015384615384615
+Home_Weekday Run 3,Normal,# Open Connections,27.015503875968992
+Home_Weekend Run 1,Normal,# Open Connections,27.042857142857144
+Home_Weekend Run 2,Normal,# Open Connections,27.00763358778626
+Home_Weekend Run 3,Normal,# Open Connections,27.06201550387597
+Hping3 Run 1,Attack,# Open Connections,27.007751937984494
+Hping3 Run 2,Attack,# Open Connections,27.085271317829456
+Hping3 Run 3,Attack,# Open Connections,27.015503875968992
+Infrastructure Run 1,Normal,# Open Connections,27.046153846153846
+Infrastructure Run 2,Normal,# Open Connections,27.06201550387597
+Infrastructure Run 3,Normal,# Open Connections,27.015503875968992
+Large_Ping Run 1,Attack,# Open Connections,27.04123711340206
+Large_Ping Run 2,Attack,# Open Connections,27.020408163265305
+Large_Ping Run 3,Attack,# Open Connections,27.020408163265305
+Ping_Flood Run 1,Attack,# Open Connections,27.053846153846155
+Ping_Flood Run 2,Attack,# Open Connections,27.050359712230215
+Ping_Flood Run 3,Attack,# Open Connections,27.062992125984252
+Scanning Run 1,Attack,# Open Connections,27.007142857142856
+Scanning Run 2,Attack,# Open Connections,27.046153846153846
+Scanning Run 3,Attack,# Open Connections,27.015503875968992
+
+Brute_Force Run 1,Attack,# Bytes Out / s,1950.513143128393
+Brute_Force Run 2,Attack,# Bytes Out / s,1379.7510181712896
+Brute_Force Run 3,Attack,# Bytes Out / s,1385.7348865132014
+Home_Vacation Run 1,Normal,# Bytes Out / s,6683.690525332492
+Home_Vacation Run 2,Normal,# Bytes Out / s,5808.7417250949065
+Home_Vacation Run 3,Normal,# Bytes Out / s,6191.097995912758
+Home_Weekday Run 1,Normal,# Bytes Out / s,3976.239306102885
+Home_Weekday Run 2,Normal,# Bytes Out / s,3979.540911736248
+Home_Weekday Run 3,Normal,# Bytes Out / s,3954.1620867090173
+Home_Weekend Run 1,Normal,# Bytes Out / s,3482.3797996497224
+Home_Weekend Run 2,Normal,# Bytes Out / s,910.7636904384971
+Home_Weekend Run 3,Normal,# Bytes Out / s,4444.2552410251
+Hping3 Run 1,Attack,# Bytes Out / s,200986.27434818048
+Hping3 Run 2,Attack,# Bytes Out / s,199517.16725485714
+Hping3 Run 3,Attack,# Bytes Out / s,198113.00051868052
+Infrastructure Run 1,Normal,# Bytes Out / s,1558.0433402719864
+Infrastructure Run 2,Normal,# Bytes Out / s,2811.6427979599866
+Infrastructure Run 3,Normal,# Bytes Out / s,3520.2160735231164
+Large_Ping Run 1,Attack,# Bytes Out / s,6185.115767964153
+Large_Ping Run 2,Attack,# Bytes Out / s,6266.475306079657
+Large_Ping Run 3,Attack,# Bytes Out / s,6178.939411316921
+Ping_Flood Run 1,Attack,# Bytes Out / s,3945.451621092379
+Ping_Flood Run 2,Attack,# Bytes Out / s,3678.792304902757
+Ping_Flood Run 3,Attack,# Bytes Out / s,3586.1367087030603
+Scanning Run 1,Attack,# Bytes Out / s,3477.3485668629282
+Scanning Run 2,Attack,# Bytes Out / s,2641.264428210094
+Scanning Run 3,Attack,# Bytes Out / s,2619.081251214286
+
+Brute_Force Run 1,Attack,# Bytes In / s,296.9383254260491
+Brute_Force Run 2,Attack,# Bytes In / s,278.31549799941683
+Brute_Force Run 3,Attack,# Bytes In / s,281.17595702729096
+Home_Vacation Run 1,Normal,# Bytes In / s,528.0660289122006
+Home_Vacation Run 2,Normal,# Bytes In / s,472.8629346191375
+Home_Vacation Run 3,Normal,# Bytes In / s,475.9065099370058
+Home_Weekday Run 1,Normal,# Bytes In / s,307.78060078669466
+Home_Weekday Run 2,Normal,# Bytes In / s,313.3528595839723
+Home_Weekday Run 3,Normal,# Bytes In / s,315.3921147257135
+Home_Weekend Run 1,Normal,# Bytes In / s,395.39120651442227
+Home_Weekend Run 2,Normal,# Bytes In / s,83.50022737596224
+Home_Weekend Run 3,Normal,# Bytes In / s,498.5212509758701
+Hping3 Run 1,Attack,# Bytes In / s,352084.2118862901
+Hping3 Run 2,Attack,# Bytes In / s,367708.2263856076
+Hping3 Run 3,Attack,# Bytes In / s,356525.2338056962
+Infrastructure Run 1,Normal,# Bytes In / s,183.2744482200548
+Infrastructure Run 2,Normal,# Bytes In / s,271.2070245818619
+Infrastructure Run 3,Normal,# Bytes In / s,375.7199728551801
+Large_Ping Run 1,Attack,# Bytes In / s,7808.499130410034
+Large_Ping Run 2,Attack,# Bytes In / s,8056.62860949435
+Large_Ping Run 3,Attack,# Bytes In / s,7938.903387748583
+Ping_Flood Run 1,Attack,# Bytes In / s,2454.8419571489917
+Ping_Flood Run 2,Attack,# Bytes In / s,2470.622520763152
+Ping_Flood Run 3,Attack,# Bytes In / s,2481.5418852282487
+Scanning Run 1,Attack,# Bytes In / s,917.7621336669793
+Scanning Run 2,Attack,# Bytes In / s,867.8147042149361
+Scanning Run 3,Attack,# Bytes In / s,840.8179447615031
+
+Brute_Force Run 1,Attack,# Protocols,13
+Brute_Force Run 2,Attack,# Protocols,13
+Brute_Force Run 3,Attack,# Protocols,13
+Home_Vacation Run 1,Normal,# Protocols,11
+Home_Vacation Run 2,Normal,# Protocols,11
+Home_Vacation Run 3,Normal,# Protocols,11
+Home_Weekday Run 1,Normal,# Protocols,11
+Home_Weekday Run 2,Normal,# Protocols,11
+Home_Weekday Run 3,Normal,# Protocols,11
+Home_Weekend Run 1,Normal,# Protocols,11
+Home_Weekend Run 2,Normal,# Protocols,11
+Home_Weekend Run 3,Normal,# Protocols,12
+Hping3 Run 1,Attack,# Protocols,13
+Hping3 Run 2,Attack,# Protocols,13
+Hping3 Run 3,Attack,# Protocols,13
+Infrastructure Run 1,Normal,# Protocols,11
+Infrastructure Run 2,Normal,# Protocols,11
+Infrastructure Run 3,Normal,# Protocols,11
+Large_Ping Run 1,Attack,# Protocols,14
+Large_Ping Run 2,Attack,# Protocols,13
+Large_Ping Run 3,Attack,# Protocols,13
+Ping_Flood Run 1,Attack,# Protocols,12
+Ping_Flood Run 2,Attack,# Protocols,13
+Ping_Flood Run 3,Attack,# Protocols,12
+Scanning Run 1,Attack,# Protocols,12
+Scanning Run 2,Attack,# Protocols,12
+Scanning Run 3,Attack,# Protocols,12
+
